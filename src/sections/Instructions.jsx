@@ -1,8 +1,10 @@
-const Instructions = () => {
-  return (
-   
+import InstructionsCard from "../components/InstructionsCard"
 
-    <div>Instructions</div>
+const Instructions = () => {
+  return (  
+    <div className="px-10">
+    <InstructionsCard/>
+  </div>
   )
 }
 
