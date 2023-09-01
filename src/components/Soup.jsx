@@ -1,4 +1,4 @@
-const soup = () => {
+const Soup = () => {
     return (
       <div className="flex justify-center items-center ">
         <img
@@ -10,5 +10,5 @@ const soup = () => {
     );
   };
   
-  export default soup;
+  export default Soup;
   

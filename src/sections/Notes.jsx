@@ -1,4 +1,4 @@
-import Soup from "../components/soup"
+import Soup from "../components/Soup"
 
 const Notes = () => {
   return (
